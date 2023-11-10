@@ -1,0 +1,48 @@
+1- HTML: hypertext markup language.
+2- we start with HTML because it's the easiest and the scaffold of the internet.
+3- Tim Berners-Lee: He is a physicist, the father of WWW and HTML.
+4- http: hypertext transfer protocol
+5- what is a server. show how request in google works.
+6- every browser is an http client.
+
+7- IP: internet protocol, it is a set of characters in which the router can identify the device.
+8- TCP: Transmission Control Protocol. send packets across the internet and ensure the successful delivery of data and messages over networks.
+9- DNS: Domain Name System-  turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
+10- UDP: User Datagram Protocol- a protocol used for communication throughout the internet. It is specifically chosen for time-sensitive applications like gaming, playing videos.
+11: TLS: Transport Layer Security- a cryptographic protocol that provides end-to-end security of data sent between applications over the Internet. It is mostly familiar to users through its use in secure web browsing.
+
+12: there are other protocols than HTTP like FTP for example, file transport protocol.
+
+13: after Domain name there is also port but its only on a few web pages still and very rare.
+
+14: Three tier architecture: the web server works as a proxy between your machine and the data base, or in other words it protect and authenticate both sides.
+
+15: make sure to install live-server, emmet
+
+
+16: SGML- The Standard Generalized Markup Language. specifies which characters and delimiters may appear in the application
+
+17: UTF-8 Unicode Transformation Format- lets you represent characters text, while still allowing for international characters, such as Chinese characters.
+
+18: X-UA-Compatible what internet-explorer is Compatible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
